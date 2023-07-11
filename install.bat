@@ -1,0 +1,2 @@
+pipenv sync
+pause
